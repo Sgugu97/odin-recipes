@@ -7,6 +7,7 @@ body{
 .title{
     background-color: rgb(89, 52, 79);
     font-size: 300px;
+    font-weight: bold;
     margin-bottom: 20px;
     text-align: center;
 }
@@ -20,4 +21,12 @@ img{
     width: auto;
     display: block;
     margin: 0 auto;
+    margin-bottom: 20px;
+}
+.objects{
+    display: flex;
+    justify-content: space-between;
+}
+.menu-name{
+    font-size: 50px;
 }
