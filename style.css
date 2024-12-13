@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(214, 186, 115);
+}
+h1{
+    background-color: rgb(89, 52, 79);
+    font-size: 300px;
+}
+h2{
+    font-size: 120px;
+}
+img{
+    height: 700px;
+    width: auto;
+}

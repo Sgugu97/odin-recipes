@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(89, 52, 79);
+}
+h1{
+    background-color: rgb(214, 186, 115);
+    font-size: 170px;
+}
+h2{
+    font-size: 120px;
+}
+img{
+    height: 900px;
+    width: auto;
+}
+ul,
+p{
+    font-size: 70px;
+}
+a{
+    font-size: 90px;
+}
